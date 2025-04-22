@@ -1,0 +1,9 @@
+# USE THIS FILE FOR CISCO CONFIG COMMANDS ONLY
+
+username test priv 15 secret cisco
+username test1 priv 15 secret cisco
+
+# USE FOLLOWING LINES TO EXIT CONFIG MODE AND SAVE
+
+exit
+wr

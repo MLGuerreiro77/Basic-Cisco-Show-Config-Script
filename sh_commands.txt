@@ -1,0 +1,7 @@
+# USE THIS FILE FOR CISCO SHOW COMMANDS ONLY
+
+sh clock
+
+sh runn | s username
+
+
