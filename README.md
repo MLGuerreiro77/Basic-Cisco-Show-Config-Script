@@ -1,7 +1,7 @@
 # Show and Configs for Cisco devices
 
 ### ⚠️**DISCLAIMER**⚠️
-I´d like to inform that this script was created for studying purposes only! Please take care befor use this on your **production environment!**
+I´d like to inform that this script was created for studying purposes only! Please take care before use this on your **production environment!**
 My intention is to learn and improve my Python and Cisco automation skills. I used this script with EVE-NG Cisco devices.
 
 I choose to use the Netmiko Python´s library once I´ve found it very useful for the type of scripts I need. The script is very simple to use and also is not complex in terms of coding since I´m not a programming guy.
